@@ -16,8 +16,8 @@ let score = true
 
 let isLoggedIn = 1
 
-//let BooleanisLoggedIn = Boolean(isLoggedIn)
-//console.log(BooleanisLoggedIn);
+let BooleanisLoggedIn = Boolean(isLoggedIn)
+console.log(BooleanisLoggedIn);
 
 
 // 1 => true; 0 => false
@@ -45,27 +45,27 @@ let doublecotNumber = Number(doublecot)
 let condition = false 
 
 let conditionString = String(condition)
-//console.log(conditionString);
-//console.log(typeof conditionString);
+console.log(conditionString);
+console.log(typeof conditionString);
 
 
 let number = 1
 
-//let numberBoolean = Boolean(number)
-//console.log(numberBoolean);
+let numberBoolean = Boolean(number)
+console.log(numberBoolean);
 
 let digit = 0
 
 let digitBoolean = Boolean(digit)
-//console.log(digitBoolean);
-//console.log(typeof Boolean);
+console.log(digitBoolean);
+console.log(typeof Boolean);
 
 
 /// **************************************** OPERATIONS ******************************************///
 
 let value = 3
 let negValue = -3
-//console.log(negValue);
+console.log(negValue);
 
 //console.log(2+2);
 //console.log(2-2);
