@@ -27,35 +27,70 @@ let isLoggedIn = 1
 let someNumber = 33 //
 
 let stringNumber = String(someNumber)
-console.log(stringNumber);
-console.log(typeof stringNumber);
+//console.log(stringNumber);
+//console.log(typeof stringNumber);
 
 let points = "33" //
 
 let pointsString = String(points)
-console.log(pointsString);
-console.log(typeof pointsString);
+//console.log(pointsString);
+//console.log(typeof pointsString);
 
 let doublecot = "hello"
 
 let doublecotNumber = Number(doublecot)
-console.log(doublecotNumber);
-console.log(typeof doublecotNumber);
+//console.log(doublecotNumber);
+//console.log(typeof doublecotNumber);
 
 let condition = false 
 
 let conditionString = String(condition)
-console.log(conditionString);
-console.log(typeof conditionString);
+//console.log(conditionString);
+//console.log(typeof conditionString);
 
 
 let number = 1
 
-let numberBoolean = Boolean(number)
-console.log(numberBoolean);
+//let numberBoolean = Boolean(number)
+//console.log(numberBoolean);
 
 let digit = 0
 
 let digitBoolean = Boolean(digit)
-console.log(digitBoolean);
-console.log(typeof Boolean);
+//console.log(digitBoolean);
+//console.log(typeof Boolean);
+
+
+/// **************************************** OPERATIONS ******************************************///
+
+let value = 3
+let negValue = -3
+//console.log(negValue);
+
+//console.log(2+2);
+//console.log(2-2);
+//console.log(2*2);
+//console.log(2/2);
+//console.log(2**2);
+//console.log(2%2);
+
+//let str1 = "hello"
+//let str2 = " coders,"
+//let str3 = " how you"
+//let str4 = " doing?"
+
+//let str5 = str1 + str2 + str3 + str4
+//console.log(str5);
+
+//console.log("1" + 2);
+//console.log( 1 + "2");
+//console.log("1" + 2 + 2);
+//console.log(1 + 2 + "2");
+
+
+
+
+
+
+
+
