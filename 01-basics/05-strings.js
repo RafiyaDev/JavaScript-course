@@ -34,6 +34,21 @@ console.log(newString);
 const anotherString = gameName.slice(-8, 8)
 console.log(anotherString);
 
+const newStringone = "       rafiya  "
+console.log(newStringone);
+console.log(newStringone.trim());
+
+const url = "http:/hitedsh.com/hitesh%20choudhary"
+
+console.log(url.replace('%20', ' '));
+
+console.log(url.includes('rafitya'));
+console.log(url.includes('hitesh'));
+
+
+
+
+
 
 
 
