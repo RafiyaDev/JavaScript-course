@@ -42,9 +42,19 @@ console.log(endswith.endsWith("e"));
 console.log(endswith.endsWith("coders"));
 
 
-let indexof = "hellocoders"
-console.log(indexof.indexOf("h"));
-console.log(indexof.indexOf("c"));
+let indexof = "hello coders!"
+console.log(indexof.indexOf("!"));
+console.log(indexof.indexOf("o"));
+
+
+let match = "hello, hello, hello, hello, hello"
+let result = match.match(/ll/g);
+console.log(result);
+
+let match2 = "The rain in Spain stays mainly in the plain."
+let result2 = match2.match(/ain/g);
+console.log(result2);
+
 
 
 
