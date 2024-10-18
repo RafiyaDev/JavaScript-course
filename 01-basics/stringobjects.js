@@ -73,6 +73,46 @@ let slice = "hello world"
 console.log(slice.slice(0, 8));
 
 
+let split = "hello, world!"
+console.log(split.split(", "));
+let split2 = "hello, coders, coders!"
+console.log(split2.split(", ",));
+
+
+let startswith = "hello i'm here!"
+console.log(startswith.startsWith("hell"))
+
+
+let substring = "Hello, world!"
+console.log(substring.substring(0, 8));
+
+
+let toLowercase = "HELLO WORLD! MY NAME IS ---"
+console.log(toLowercase.toLocaleLowerCase());
+
+
+let toUppercase = "hello world! my name is ---"
+console.log(toUppercase.toLocaleUpperCase());
+
+
+let trim = "    (hello, world!)   ";
+console.log(trim.trim());
+
+
+let trimstart = "      hello, world!     "
+console.log(trimstart.trimStart());
+
+
+let trimend = "    hellow, world     "
+console.log(trimend.trimEnd());
+let trimend2 = "    hello, world     "
+console.log(trimend2.trimEnd());
+console.log(trimend.trimStart());
+
+
+let valueof = new String("Hello, world!")
+console.log(valueof.valueOf());
+
 
 
 
