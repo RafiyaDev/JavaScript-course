@@ -113,27 +113,3 @@ console.log(trimend.trimStart());
 let valueof = new String("Hello, world!")
 console.log(valueof.valueOf());
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
