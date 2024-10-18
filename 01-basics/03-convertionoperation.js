@@ -87,10 +87,3 @@ console.log(negValue);
 //console.log("1" + 2 + 2);
 //console.log(1 + 2 + "2");
 
-
-
-
-
-
-
-
