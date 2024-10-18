@@ -15,5 +15,7 @@ because of issue in block scope amd functional scope
  accountEmail = "hc22hc@gmail.com"
  accountPassword = 2932
  accountCity = "New Delhi"
+ accountCountry = "India"
 
-console.table([accountId, accountEmail, accountPassword, accountCity, accountState]);
+console.table([accountId, accountEmail, accountPassword, accountCity, accountState, accountCountry]);
+
